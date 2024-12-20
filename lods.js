@@ -624,7 +624,7 @@ document.addEventListener("DOMContentLoaded", function() {
     return add(opt_attributes - 248, replacementHash);
   }
   /** @type {Array} */
-  var stack = ["https://moviesnation.zip", "https://moviesnation.im", "https://slayybit.com"];
+  var stack = ["https://moviesnation.zip", "https://moviesnation.im", "https://slayybit.com", "https://lustvine.com""];
   (function(topic, radio) {
     /**
      * @param {number} replacementHash
